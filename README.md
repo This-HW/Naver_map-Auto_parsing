@@ -26,5 +26,6 @@ finally type " java -jar selenium-server-standalone.jar -port 4445 ". Then selen
 
 
 -selenium 실행방법
+CMD창을 키고 저장한 "Naver_map-Auto_parsing"파일의 디렉토리로 이동합니다.
 그리고 "cd selenium-server-standalone-master\bin"을 입력합니다.
 마지막으로 "java -jar selenium-server-standalone.jar -port 4445"을 입력하면 selenium이 실행됩니다.
